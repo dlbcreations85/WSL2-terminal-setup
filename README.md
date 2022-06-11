@@ -16,8 +16,12 @@ https://github.com/gpakosz/.tmux
 - OhmyTmux
 - https://github.com/rothgar/awesome-tmux
 - 
-
+## Fzf
 fuzzy finder - https://github.com/junegunn/fzf#installation
+
+## windos termnal
+
+added image and lowere the opasity to 8%
 
 ![image](https://user-images.githubusercontent.com/58373657/173204165-a207ffc9-44a1-42d9-8d26-45b89cd03a6f.png)
 
