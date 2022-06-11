@@ -10,8 +10,14 @@ setup of termiaal
 
 ## Tmux
 https://www.youtube.com/watch?v=cPWEX2446B4&t=408s
+https://github.com/gpakosz/.tmux
 
 - Tmux
 - OhmyTmux
+- https://github.com/rothgar/awesome-tmux
+- 
 
 fuzzy finder - https://github.com/junegunn/fzf#installation
+
+![image](https://user-images.githubusercontent.com/58373657/173204165-a207ffc9-44a1-42d9-8d26-45b89cd03a6f.png)
+
