@@ -14,3 +14,4 @@ https://www.youtube.com/watch?v=cPWEX2446B4&t=408s
 - Tmux
 - OhmyTmux
 
+fuzzy finder - https://github.com/junegunn/fzf#installation
